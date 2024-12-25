@@ -17,8 +17,7 @@ A simple weather application built using JavaScript, HTML, and CSS that allows u
 - **JavaScript**: For making the app interactive and handling API requests.
 - **OpenWeather API**: For fetching real-time weather data.
 
-## How to Use
+## How to Check 
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/chandan7050/weatherapp-JavaScript.git
+**Click the link 
+https://weatherforkast.netlify.app/
